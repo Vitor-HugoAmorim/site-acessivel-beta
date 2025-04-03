@@ -30,8 +30,8 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
-    /* Substitua pelo caminho da sua imagem */
+    background-image: url('img/backwoods-1718123_1280.jpg');
+    /* Imagem de <a href="https://pixabay.com/pt/users/jorgeribas-1283080/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1718123">jorge luiz ribas</a> por <a href="https://pixabay.com/pt//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1718123">Pixabay</a>*/
     background-size: cover;
     background-position: right;
     border-radius: 80px;
