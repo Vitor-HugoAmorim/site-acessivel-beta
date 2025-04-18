@@ -94,6 +94,11 @@ section {
     /* Garante que o conteúdo fica acima das imagens do background */
 }
 
+#tropicalia img.rounded-pill {
+    object-fit: cover;  /* Faz com que a imagem cubra o container sem distorção */
+    width: 253px;       /* Tamanho desejado */
+    height: 253px;      /* Torna a altura igual à largura para manter a proporção */
+}
 
 h2 {
     font-family: 'Lemon', serif;
